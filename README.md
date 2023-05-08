@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedassignment3-soln
+<br>
+Assignment3_1.java – Write a console (all I/O via System.in and System.out) program that reads in two integer numbers and identifies if their sum is at least 3 times greater than their product. Print the conclusion.Assignment3_2.java – Write a console program that reads in two integer numbers and identifies if they are co-prime (https://en.wikipedia.org/wiki/Coprime_integers).Hint: consider identifying divisors of one number in a loop and test if each of them also divides the other number.Assignment3_3.java – Write a console program with a for loop that prints 5, 9, 13, 17, …, 101.
